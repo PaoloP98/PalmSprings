@@ -1,0 +1,26 @@
+Dalla riga 12 alla riga 29 sono variabili dichiarate personalmente per definire attraverso un nome i colori utilizzati
+Il validator le indica come sconosciute perché il nome (sabbia, orchidea ecc...) è puramente arbitrario
+
+12		--sabbia0 is an unknown vendor extension
+13		--sabbia1 is an unknown vendor extension
+14		--sabbia2 is an unknown vendor extension
+15		--sabbia3 is an unknown vendor extension
+16		--orchidea0 is an unknown vendor extension
+17		--orchidea1 is an unknown vendor extension
+18		--orchidea2 is an unknown vendor extension
+19		--orchidea3 is an unknown vendor extension
+20		--acqua0 is an unknown vendor extension
+21		--acqua1 is an unknown vendor extension
+22		--acqua2 is an unknown vendor extension
+23		--acqua3 is an unknown vendor extension
+24		--antracite0 is an unknown vendor extension
+25		--antracite1 is an unknown vendor extension
+26		--antracite2 is an unknown vendor extension
+27		--antracite3 is an unknown vendor extension
+28		--dark is an unknown vendor extension
+29		--aliceblue is an unknown vendor extension
+
+
+Questo invece serve per Safari la posizione sticky del menu secondario nella pagina il film
+Fonte: https://www.w3schools.com/howto/howto_css_sticky_element.asp
+504		-webkit-sticky is an unknown vendor extension
